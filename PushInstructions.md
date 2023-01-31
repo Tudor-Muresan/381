@@ -14,4 +14,6 @@ Pulling file:
 
 git pull
 
+Git status:
 
+Shows status for current git files. Will tell you if you need to add, commit, push, etc.
