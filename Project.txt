@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h2 {
+  border-bottom: 5px solid gray; padding-bottom: 4px;
+}
+
+img {
+
+	padding-left:20px
+}
+
+</style>
+</head>
+<body>
+
+<h1 align=center > The Steel Crown of Romania </h1>
+
+<h2 align=center >
+
+Coroana de Ot&#806el a Roma&#770niei
+
+</h2>
+
+<br>
+
+<div class=container>
+
+	<div class = image>
+    
+   <a href="https://en.wikipedia.org/wiki/Steel_Crown_of_Romania"> <img src=https://upload.wikimedia.org/wikipedia/commons/c/c4/Steel_Crown_of_Romania.png style=float:right alt="Steel Crown of Romania" width=425 height=425> </a>
+    
+    </div>
+    
+	<div class=text>
+
+<p> The Kingdom of Romania was established in 1881 following a revolution from the Ottoman Empire, the historical colonial power in the Balkan region. The Kingdom's state crown was created during the preceding War of Independence, which took place between 1877 and 1878. The first King of Romania, Carol I (anglicised as Charles I), chose to have his crown made of <span style="color:silver"> steel </span> from captured Ottoman cannons instead of <span style=color:gold> gold </span>, as it symbolised the bravery of the Romanian people and soldiery. </p>
+
+<br>
+
+<p> Though the Romanian monarchy ended in 1947 following the forced abdication of its last king, Michael I, the Romanian government added a heraldic representation of the Steel Crown to the <a href="https://upload.wikimedia.org/wikipedia/commons/5/53/Stema_Rom%C3%A2niei.png">Romanian coat of arms </a> in 2016. A year later, the crown would be placed atop the late King's coffin during his state funeral. The Steel Crown now resides on display at the National Museum of Romanian History <a href="https://www.mnir.ro/welcome-to-mnir/"> <sup>1</sup> </a> in Bucharest, the nation's capital.  
+
+	</div>
+    
+<br>
+
+<p> <a href="https://github.com/Tudor-Muresan/381/blob/main/SubFolder/A%20Concise%20History%20of%20Romania.pdf"> Read more about the history of Romania, including before, during, and after the Kingdom! </a> <p>
+    
+</div>
+</body>
+</html>
+
+
