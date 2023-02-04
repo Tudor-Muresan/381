@@ -18,7 +18,7 @@ Though the Romanian monarchy ended in 1947 following the forced abdication of it
     
 <br>
 
-[Read more about the History of Romania!](/SubFolder/A_Concise_History_of_Romania.pdf)
+[Continue reading about the History of Romania!](/SubFolder/A_Concise_History_of_Romania.pdf)
     
 [Coat of arms]: /SubFolder/Coat_of_Arms.png
 
