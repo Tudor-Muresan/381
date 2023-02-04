@@ -1,6 +1,6 @@
 <h1 align=center> Explanations for HTML Assignment </h1>
 
-### Of the list of five elements required for a B grade, the following are directly incorporated in the [previous document](/HTML_Project/P1.md).
+### Of the list of five elements required for a B grade, the following are directly incorporated in the [previous document](/HTML_Project/Tudor_Muresan_30095500.md).
 
 1. A title that is centered.
 2. A picture to the right of some text.
