@@ -1,10 +1,10 @@
-<h1 align=center> The Steel Crown of Romania </h1>
+<h1 align=center> 
+    
+   $$\Huge{\color{gray} The \space Steel \space Crown \space of \space Romania}$$
 
-<h2 align=center>
+</h1>
 
-$$\large{\color{gray} Coroana \space de \space O&#539;el \space a \space Roma&#770;niei}$$
-
-</h2>
+<h2 align=center> <i> Coroana de O&#539;el a Roma&#770;niei </i> </h2>
 
 <br>
 
