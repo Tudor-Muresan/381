@@ -10,7 +10,7 @@
 
 <a href="https://en.wikipedia.org/wiki/Steel_Crown_of_Romania"> <img src=https://upload.wikimedia.org/wikipedia/commons/c/c4/Steel_Crown_of_Romania.png align=right alt="Steel Crown of Romania" width=425 height=425> </a>
 
-<p> The Kingdom of Romania was established in 1881 following a revolution from the Ottoman Empire, the historical colonial power in the Balkan region. The Kingdom's state crown was created during the preceding War of Independence, which took place between 1877 and 1878. The first King of Romania, Carol I (anglicised as Charles I), chose to have his crown made of <span style="color:silver"> steel </span> from captured Ottoman cannons instead of <span style=color:gold> gold </span>, as it symbolised the bravery of the Romanian people and soldiery. </p>
+<p> The Kingdom of Romania was established in 1881 following a revolution from the Ottoman Empire, the historical colonial power in the Balkan region. The Kingdom's state crown was created during the preceding War of Independence, which took place between 1877 and 1878. The first King of Romania, Carol I (anglicised as Charles I), chose to have his crown made of <span style="color:silver"> steel</span> from captured Ottoman cannons instead of <span style=color:gold> gold</span>, as it symbolised the bravery of the Romanian people and soldiery. </p>
 
 <br>
 
