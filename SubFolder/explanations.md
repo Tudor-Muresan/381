@@ -10,6 +10,6 @@
 
 ### You will need to write V&#775;O<sub>2</sub> properly with the dot over the V&#775;. 
 
-Again, I do not do this verbatim, as the V&#775; does not appear in the previous document. Instead, I use the same code as the one just used to add the accent atop the "a" in the Romanian sub-title "Coarana de O&#539;el a Roma&#770;niei". The same procedure was used for the accent below the "t". 
+I do not do this verbatim, as the V&#775; does not appear in the previous document. Instead, I use the same code as the one just used to add the accent atop the "a" in the Romanian sub-title "Coarana de O&#539;el a Roma&#770;niei". The same procedure was used for the accent below the "t". 
 
 <br>
