@@ -5,15 +5,8 @@
 1. A title that is centered.
 2. A picture to the right of some text.
 3. Text with a different colour.
+4. Hyperlink to another document. 
 5. Part of the text that requires either a subscript like VO<sub>2</sub> or **superscript** like Na<sup>+</sup>.
-
-<h3> Not incorporated verbatim is #4, "A hyper-link to [another document] (readme.md) </h3>
-
-This is since I link to a document of a different name. Either this one or ["A Concise History of Romania" by Keith Hitchins](/SubFolder/A_Concise_History_of_Romania.pdf).
-
-### Hyperlink will access a file in a sub-folder.
-
-I do this thrice in the previous document, each time to the same sub-folder. 
 
 ### You will need to write V&#775;O<sub>2</sub> properly with the dot over the V&#775;. 
 
