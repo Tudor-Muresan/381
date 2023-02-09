@@ -4,7 +4,7 @@
 
 </h1>
 
-<h3 align=center> <i> Coroana de O&#539;el a Roma&#770;niei </i> </h3>
+<h3 align=center> <i> Coroana de Ot&#806;el a Roma&#770;niei </i> </h3>
 
 <br>
 
